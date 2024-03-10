@@ -44,7 +44,7 @@ function Main() {
             </div>
             <div className='w-full flex flex-col gap-1 justify-center items-center h-16'>
               <div className='flex  gap-2 items-center justify-center'>
-                <img className='w-8 h-8' src="./src/assets/Party_emoji.svg" alt="" />
+                <img className='w-9 h-9' src="./src/assets/Party_emoji.svg" alt="" />
                 <h1 className='text-2xl font-bold text-white'>More Time</h1>
               </div>
               <p className='text-base text-gray-500'>Spend less time on marketing tools</p>
